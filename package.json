@@ -1,0 +1,16 @@
+{
+  "name": "forestry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://DannyBase.github.io/forestry",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
