@@ -251,7 +251,7 @@ body {
 
 .logo {
   font-weight: bold;
-  font-size: 2.8rem;
+  font-size: 2.5rem;
 }
 
 .logo.logo-light {
@@ -264,7 +264,7 @@ body {
 
 @media (max-width: 500px) {
   .logo {
-    margin-bottom: 1rem;
+    font-size: 2rem;
   }
 }
 
@@ -4168,8 +4168,7 @@ blockquote {
   }
   .header-top,
   .header-bottom {
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding: 10px 0;
     position: relative;
   }
   .search-wrapper {
